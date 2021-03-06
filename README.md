@@ -1,7 +1,7 @@
 # Erlang
 ## MultiThreaded Peer-To-Peer Communication Application
 
-Given the communication information in a text file, this application creates creates a caller.
+Given the communication information in a text file, this application creates a caller.
 This caller is represented by a thread. Caller then makes contact with his list of callees.
 Once a callee receives a contact request, it must reply to the original person(caller) to indicate that
 they have received the contact request.
